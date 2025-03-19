@@ -38,3 +38,9 @@ go cmd/cli/main.go -find -id {identifiant} -file {chemin} -addr {adresse}
 | storageCapacity  | 65 536            | Nombre maximum de valeurs stockées localement    |
 
 Toutes les constantes de configuration se trouvent dans `core/config.go`.
+
+## Tester
+
+```bash
+go test -v ./testing
+```
