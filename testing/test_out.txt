@@ -1,0 +1,14 @@
+Ceci est un fichier de test. Il est lu, stocker sur le réseau puis retrouver pour être comparé à l'original.
+
+Données de remplissage (10 lignes) :
+
+Ceci est un fichier de test. Il est lu, stocker sur le réseau puis retrouver pour être comparé à l'original.
+Ceci est un fichier de test. Il est lu, stocker sur le réseau puis retrouver pour être comparé à l'original.
+Ceci est un fichier de test. Il est lu, stocker sur le réseau puis retrouver pour être comparé à l'original.
+Ceci est un fichier de test. Il est lu, stocker sur le réseau puis retrouver pour être comparé à l'original.
+Ceci est un fichier de test. Il est lu, stocker sur le réseau puis retrouver pour être comparé à l'original.
+Ceci est un fichier de test. Il est lu, stocker sur le réseau puis retrouver pour être comparé à l'original.
+Ceci est un fichier de test. Il est lu, stocker sur le réseau puis retrouver pour être comparé à l'original.
+Ceci est un fichier de test. Il est lu, stocker sur le réseau puis retrouver pour être comparé à l'original.
+Ceci est un fichier de test. Il est lu, stocker sur le réseau puis retrouver pour être comparé à l'original.
+Ceci est un fichier de test. Il est lu, stocker sur le réseau puis retrouver pour être comparé à l'original.
